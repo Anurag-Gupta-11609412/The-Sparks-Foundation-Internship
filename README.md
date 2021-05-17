@@ -2,4 +2,4 @@
 Name Anurag Gupta
 #GRIPMAY21
 Project: Color Detection of Images
-gripmay21 
+
