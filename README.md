@@ -1,4 +1,5 @@
-# The-Sparks-Foundation-Internship
+# Python project on Color Detection of Image The-Sparks-Foundation-Internship
+
 Name Anurag Gupta
 #GRIPMAY21
 Project: Color Identifcation in Images
